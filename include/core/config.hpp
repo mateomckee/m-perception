@@ -99,7 +99,7 @@ struct RecordingConfig {
 
 struct VisualizationConfig {
   bool enabled = true;
-  std::string window_name = "Dashcam Perception";
+  std::string window_name = "Perception Pipeline";
 
   bool show_boxes = true;
   bool show_track_ids = true;

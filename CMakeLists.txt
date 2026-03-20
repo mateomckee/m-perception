@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.20)
-project(dashcam_perception LANGUAGES CXX)
+project(m_perception LANGUAGES CXX)
 
 # C++ standard
 set(CMAKE_CXX_STANDARD 17)
